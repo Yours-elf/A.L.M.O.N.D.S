@@ -1,0 +1,201 @@
+respondent_id,age,gender,region,education,employment_status,years_experience,annual_income_k,hours_per_week,remote_work,exercise_days_per_week,sleep_hours,stress_level,job_satisfaction,life_satisfaction
+1001,29,Female,Central,Master,Unemployed,8,9.9,2.5,No,3,7.7,2,5,8
+1002,41,Female,West,Bachelor,Full-time,18,59.6,37.1,Yes,2,8.4,1,6,7
+1003,20,Female,South,Master,Full-time,0,34.2,38.3,No,1,7.0,4,5,7
+1004,53,Female,North,Bachelor,Full-time,27,64.7,40.9,Yes,4,6.8,3,8,9
+1005,45,Female,West,Bachelor,Self-employed,23,56.6,46.4,No,1,6.3,7,5,7
+1006,35,Male,East,Master,Self-employed,12,53.1,48.9,Yes,1,7.7,7,5,7
+1007,35,Male,North,Bachelor,Full-time,12,48.3,44.5,Yes,7,7.1,4,5,8
+1008,41,Female,East,High School,Unemployed,17,12.3,4.4,No,5,7.5,1,5,9
+1009,35,Female,North,Master,Full-time,12,62.3,37.6,No,0,7.7,6,6,5
+1010,36,Male,East,Master,Part-time,12,28.8,20.4,No,3,8.5,4,6,8
+1011,46,Male,West,Master,Full-time,22,63.5,44.9,No,3,8.1,3,7,7
+1012,44,Male,Central,Bachelor,Part-time,23,28.0,17.0,No,5,6.1,3,4,5
+1013,37,Female,South,Master,Full-time,16,47.7,40.1,Yes,3,6.2,5,7,7
+1014,37,Female,South,Master,Full-time,12,63.4,44.6,No,2,7.3,4,9,8
+1015,40,Male,South,Bachelor,Full-time,15,41.7,42.8,No,4,7.8,4,,5
+1016,31,Non-binary,North,Master,Part-time,5,24.0,20.0,Yes,2,7.4,2,7,7
+1017,34,Male,Central,Doctorate,Self-employed,10,66.0,61.2,No,5,7.9,5,4,3
+1018,44,Male,Central,Bachelor,Full-time,21,45.1,36.9,Yes,6,8.9,2,10,10
+1019,37,Female,West,High School,Unemployed,15,,3.8,No,3,7.2,2,6,7
+1020,23,Female,North,Bachelor,Full-time,0,30.3,38.8,Yes,4,7.5,6,6,6
+1021,33,Male,North,Master,Full-time,12,46.7,29.3,No,2,8.2,2,7,8
+1022,45,Male,Central,Bachelor,Full-time,23,53.1,39.0,Yes,2,8.0,6,4,5
+1023,35,Male,North,Doctorate,Full-time,12,,40.3,No,3,6.3,5,6,5
+1024,36,Female,North,Doctorate,Full-time,12,66.7,40.3,No,2,,5,6,4
+1025,45,Female,West,Master,Self-employed,21,75.2,38.9,Yes,1,5.4,3,8,8
+1026,58,Male,South,Master,Full-time,36,82.8,41.5,,4,7.3,5,5,7
+1027,30,Female,South,High School,Part-time,8,21.4,23.6,No,1,6.5,3,1,4
+1028,53,Female,South,Bachelor,Full-time,31,60.0,47.2,Yes,3,6.3,4,6,4
+1029,24,Male,West,Master,Full-time,2,44.9,41.3,No,2,5.7,5,5,6
+1030,40,Male,East,Bachelor,Full-time,16,52.1,44.1,Yes,3,7.0,4,7,7
+1031,25,Non-binary,Central,High School,Full-time,3,30.1,38.3,No,3,5.8,4,4,6
+1032,53,Male,East,High School,Full-time,32,57.8,42.0,No,0,5.8,8,4,4
+1033,47,Female,South,High School,Part-time,23,21.4,20.8,Yes,2,6.8,4,5,4
+1034,51,Female,North,Bachelor,Self-employed,25,73.4,31.3,Yes,1,7.5,8,5,4
+1035,28,Male,West,Doctorate,Full-time,3,45.7,33.9,Yes,3,7.3,3,7,8
+1036,46,Female,South,Bachelor,Full-time,21,54.4,35.4,Yes,2,7.8,3,6,8
+1037,32,Female,West,Master,Self-employed,9,59.4,38.1,Yes,3,7.2,7,5,5
+1038,33,Female,West,High School,Full-time,11,31.6,40.5,No,6,7.1,2,5,6
+1039,44,Non-binary,Central,Master,Full-time,20,71.1,39.7,Yes,1,6.8,6,6,4
+1040,48,Female,North,Doctorate,Unemployed,24,16.0,3.0,No,2,6.3,2,7,9
+1041,40,Female,South,Bachelor,Full-time,15,44.2,41.1,Yes,1,7.1,5,5,5
+1042,31,Male,West,Bachelor,Full-time,10,26.8,43.0,No,1,8.0,3,4,5
+1043,29,Male,South,Master,Full-time,7,59.2,48.1,No,2,7.5,4,6,5
+1044,54,Male,North,High School,Full-time,30,45.0,40.7,No,4,7.9,7,5,5
+1045,45,Female,Central,Doctorate,Self-employed,19,65.1,41.1,No,4,7.6,4,6,7
+1046,46,Male,West,Master,Part-time,20,37.8,22.4,,1,7.3,6,6,5
+1047,62,Non-binary,South,Doctorate,Full-time,37,89.6,45.4,No,4,7.2,4,8,9
+1048,29,Male,North,Master,Full-time,4,56.7,50.0,Yes,1,5.7,7,,6
+1049,66,Non-binary,Central,Bachelor,Part-time,40,42.7,13.6,Yes,3,6.2,4,6,7
+1050,66,Male,East,Bachelor,Part-time,45,46.3,21.7,Yes,1,6.2,5,4,7
+1051,56,Female,Central,,Full-time,31,60.6,40.9,Yes,3,8.0,4,6,5
+1052,47,Male,East,Bachelor,Full-time,26,59.2,36.3,No,1,6.5,5,5,6
+1053,31,Male,South,Doctorate,Part-time,8,36.6,27.0,No,4,7.9,4,6,8
+1054,49,Female,North,High School,Full-time,25,56.0,48.0,No,1,5.7,7,6,7
+1055,33,Male,South,High School,Self-employed,10,44.1,61.8,No,1,6.0,5,5,5
+1056,38,Female,West,Doctorate,Full-time,16,61.8,38.0,No,4,6.4,3,7,6
+1057,35,Male,North,Doctorate,Full-time,13,,46.3,No,7,7.9,,7,6
+1058,41,Male,South,High School,Full-time,15,31.0,41.2,No,1,8.8,2,5,7
+1059,52,Female,South,Doctorate,Self-employed,31,77.6,22.9,No,2,6.0,5,8,7
+1060,32,Male,West,Master,Full-time,8,50.9,41.1,No,2,7.4,6,4,5
+1061,27,Non-binary,North,Master,Full-time,6,40.4,35.3,Yes,2,6.4,4,5,6
+1062,27,Male,Central,Bachelor,Full-time,3,37.7,37.4,No,0,7.6,,4,5
+1063,27,Female,South,Bachelor,Full-time,2,43.3,41.6,Yes,5,8.9,6,7,6
+1064,22,Male,Central,High School,Full-time,0,,30.7,No,2,6.7,4,4,6
+1065,28,Female,Central,Bachelor,Full-time,6,37.2,43.7,No,1,7.8,5,4,4
+1066,52,Female,Central,Bachelor,Self-employed,26,64.4,30.2,No,4,7.2,4,7,6
+1067,31,Female,South,High School,Full-time,9,25.4,44.2,Yes,0,6.2,8,4,3
+1068,41,Female,Central,High School,Full-time,18,38.4,39.3,No,2,6.8,6,4,5
+1069,25,Male,South,High School,Full-time,0,28.3,42.6,No,2,8.1,6,3,5
+1070,40,Female,South,Bachelor,Part-time,16,25.1,26.7,Yes,1,7.5,3,6,6
+1071,20,Female,North,Master,Self-employed,0,38.3,47.4,No,3,6.9,6,3,5
+1072,30,Male,East,Bachelor,Self-employed,9,46.7,44.5,Yes,2,6.8,5,6,7
+1073,63,Male,North,Bachelor,Full-time,37,61.9,41.0,No,1,6.5,4,6,8
+1074,32,Male,Central,Master,Full-time,6,50.8,40.9,Yes,2,7.7,5,6,7
+1075,50,Male,North,Master,Full-time,29,69.7,46.3,Yes,4,,7,6,6
+1076,43,Non-binary,East,Bachelor,Full-time,17,55.9,39.8,No,2,7.0,5,6,5
+1077,36,Male,Central,Bachelor,Part-time,12,29.3,19.8,No,5,6.5,4,3,3
+1078,31,Male,North,Doctorate,Full-time,10,63.5,42.3,Yes,2,7.4,5,5,5
+1079,52,Female,East,High School,Full-time,27,47.8,41.6,No,2,7.6,3,7,7
+1080,36,Female,East,Bachelor,Full-time,13,56.2,42.6,Yes,0,7.9,6,5,5
+1081,55,Male,West,Master,Full-time,33,,34.0,Yes,1,6.0,4,8,9
+1082,30,Female,West,Bachelor,Self-employed,4,33.0,41.3,Yes,3,7.5,4,8,6
+1083,39,Male,Central,Master,Part-time,17,33.6,23.5,No,1,6.3,7,,5
+1084,43,Male,West,Master,Self-employed,19,56.7,44.4,No,2,8.3,2,8,5
+1085,42,Female,East,Master,Unemployed,20,10.6,1.4,No,2,7.9,2,5,8
+1086,24,Female,South,Bachelor,Part-time,2,16.8,22.0,Yes,4,7.2,4,7,7
+1087,31,Male,North,Master,Part-time,7,26.3,19.3,Yes,3,6.1,4,5,4
+1088,36,Male,North,Master,Self-employed,13,52.5,26.6,Yes,5,9.2,1,8,8
+1089,29,Male,Central,Bachelor,Part-time,5,15.8,30.0,No,2,7.0,4,4,7
+1090,45,Female,South,High School,Unemployed,21,10.9,1.3,No,4,8.2,1,5,9
+1091,44,Female,Central,Doctorate,Full-time,20,74.9,39.1,Yes,4,5.6,7,5,5
+1092,20,Male,South,Bachelor,Full-time,0,27.3,39.2,No,4,7.4,4,5,7
+1093,20,Female,North,Bachelor,Full-time,0,38.5,37.7,No,1,7.8,7,2,3
+1094,24,Female,South,High School,Unemployed,3,8.0,3.2,No,2,5.2,3,2,5
+1095,39,Male,South,Bachelor,Full-time,18,56.7,33.1,Yes,3,7.5,,7,6
+1096,60,Female,North,Bachelor,Self-employed,37,65.2,60.7,Yes,3,7.7,7,6,8
+1097,34,Female,East,Bachelor,Full-time,9,33.8,46.5,No,2,5.6,4,6,6
+1098,41,Female,West,Bachelor,Unemployed,15,14.7,2.3,Yes,3,7.1,4,5,4
+1099,26,Female,South,High School,Full-time,3,33.9,40.6,No,0,6.7,10,4,3
+1100,26,Male,East,Doctorate,Full-time,0,61.0,37.3,No,6,6.9,5,5,6
+1101,20,Male,Central,High School,Self-employed,0,29.9,36.2,Yes,1,6.5,3,5,6
+1102,38,Male,South,Master,Full-time,13,58.9,37.1,Yes,0,6.2,5,5,5
+1103,48,Male,East,High School,Full-time,23,45.1,46.6,,5,6.5,1,9,9
+1104,34,Female,Central,Bachelor,Full-time,9,47.9,42.1,Yes,0,6.9,5,5,6
+1105,53,Female,East,Master,Full-time,32,72.6,37.3,Yes,2,,7,8,6
+1106,40,Male,East,Bachelor,Self-employed,15,44.8,27.3,No,1,5.9,6,3,5
+1107,38,Female,East,Master,Full-time,14,55.5,39.2,No,3,6.7,3,,5
+1108,44,Female,North,High School,Self-employed,18,33.4,44.6,No,2,7.1,3,7,6
+1109,43,Male,West,Master,Full-time,17,,35.2,Yes,5,8.5,2,8,9
+1110,51,Male,Central,Bachelor,Full-time,28,65.1,42.6,No,0,8.0,7,5,5
+1111,29,Female,Central,Doctorate,Self-employed,5,58.9,56.6,No,2,6.5,7,4,2
+1112,20,Male,East,Doctorate,Self-employed,0,58.0,32.0,Yes,1,,7,6,5
+1113,39,Male,South,Master,Full-time,18,58.1,40.2,No,4,6.0,4,5,7
+1114,31,Male,West,Master,Part-time,10,29.5,19.8,No,1,7.1,4,5,7
+1115,38,Female,Central,Doctorate,Full-time,14,66.2,41.3,Yes,2,,5,5,7
+1116,56,Female,Central,Master,Full-time,32,88.6,39.3,No,2,6.8,5,8,7
+1117,26,Male,South,Bachelor,Full-time,0,26.1,40.5,No,1,5.9,,5,7
+1118,46,Male,Central,Bachelor,Full-time,25,75.0,41.6,Yes,4,6.6,4,9,9
+1119,48,Female,West,Bachelor,Full-time,22,50.4,50.1,No,2,6.9,6,5,7
+1120,43,Male,Central,Bachelor,Part-time,17,27.0,21.8,No,2,7.3,3,4,5
+1121,50,Female,North,Bachelor,Full-time,29,64.7,38.1,Yes,3,8.4,4,5,6
+1122,33,Male,Central,High School,Self-employed,11,41.9,50.4,No,2,7.0,4,6,5
+1123,31,Male,West,High School,Full-time,6,32.6,35.8,Yes,1,6.6,7,6,7
+1124,49,Female,North,Bachelor,Part-time,24,32.9,17.5,Yes,4,7.9,5,6,6
+1125,46,Male,East,Bachelor,Full-time,21,66.4,34.6,Yes,3,5.7,7,5,4
+1126,53,Female,North,Bachelor,Part-time,30,46.3,15.9,Yes,4,8.8,3,6,9
+1127,40,Non-binary,West,Doctorate,Full-time,15,70.2,38.7,Yes,5,5.4,4,6,6
+1128,56,Male,East,High School,Full-time,35,64.5,41.5,Yes,0,7.5,4,7,6
+1129,35,Male,East,Master,Part-time,9,28.5,15.6,No,5,7.9,1,7,8
+1130,26,Male,Central,Bachelor,Unemployed,3,13.1,2.6,No,3,6.7,2,5,6
+1131,20,Female,West,,Part-time,0,24.0,28.8,Yes,2,6.7,2,7,9
+1132,26,Male,North,High School,Full-time,5,36.0,43.8,No,1,5.6,7,5,6
+1133,47,Male,West,Bachelor,Full-time,22,48.0,34.5,No,3,7.3,4,4,5
+1134,22,Male,East,Bachelor,Full-time,0,15.4,44.1,Yes,4,7.7,2,6,8
+1135,33,Male,North,Master,Full-time,12,73.3,38.6,No,0,6.5,5,5,5
+1136,61,Female,South,High School,Full-time,40,71.9,36.3,No,5,7.8,4,6,6
+1137,47,Female,East,Bachelor,Unemployed,24,16.3,2.4,No,2,7.8,4,5,7
+1138,58,Male,Central,Master,Full-time,32,,44.3,No,3,6.4,5,5,6
+1139,27,Female,Central,Bachelor,Full-time,3,,30.8,Yes,3,8.0,4,4,6
+1140,20,Male,North,High School,Full-time,0,25.6,44.2,Yes,5,7.7,4,,6
+1141,55,Female,East,Master,Full-time,31,73.3,38.7,No,2,7.2,4,6,7
+1142,22,Female,Central,High School,Full-time,0,,38.6,No,4,8.0,4,6,5
+1143,39,Female,West,High School,Full-time,18,43.8,39.2,No,2,7.4,5,4,6
+1144,40,Male,Central,,Full-time,19,54.7,44.9,No,4,6.5,4,8,7
+1145,28,Female,East,Master,Part-time,7,29.5,25.9,No,5,6.8,3,,7
+1146,55,Female,South,Master,Unemployed,34,19.4,5.6,No,2,7.4,2,4,7
+1147,55,Female,East,Master,Full-time,30,80.7,43.7,Yes,2,8.0,5,6,6
+1148,44,Male,East,Master,Full-time,20,57.2,49.1,Yes,2,7.0,6,6,7
+1149,38,Male,Central,Master,Part-time,13,32.6,16.7,No,2,6.8,3,5,5
+1150,40,Female,South,Doctorate,Full-time,17,64.4,36.5,No,5,,1,6,8
+1151,26,Male,South,Bachelor,Full-time,2,33.0,42.7,No,0,5.8,10,1,4
+1152,35,Male,West,Bachelor,Full-time,13,60.2,43.4,No,2,8.1,6,5,4
+1153,37,Male,South,Doctorate,Unemployed,13,18.5,2.1,No,2,8.4,2,5,6
+1154,29,Female,East,Bachelor,Part-time,8,26.4,21.1,Yes,3,8.7,5,6,6
+1155,47,Male,Central,High School,Full-time,26,61.3,49.1,No,0,7.5,7,5,5
+1156,22,Female,West,Doctorate,Full-time,0,56.5,39.5,No,2,,6,,6
+1157,33,Non-binary,West,High School,Self-employed,11,48.1,48.3,No,5,7.0,5,6,8
+1158,20,Female,Central,Bachelor,Full-time,0,29.8,29.9,Yes,2,6.8,7,4,5
+1159,43,Female,West,Doctorate,Full-time,21,71.3,43.9,No,4,7.5,5,7,7
+1160,46,Female,Central,Master,Self-employed,23,68.3,67.0,Yes,2,7.4,5,6,7
+1161,45,Male,West,Bachelor,Self-employed,20,,36.3,Yes,3,,3,6,8
+1162,66,Male,East,Bachelor,Full-time,43,69.9,42.9,Yes,2,7.4,7,6,7
+1163,48,Non-binary,South,High School,Full-time,26,41.1,39.3,No,1,7.3,5,6,8
+1164,28,Female,South,Bachelor,Full-time,6,47.3,40.9,No,1,7.3,6,5,7
+1165,66,Male,East,Master,Unemployed,41,19.5,2.6,No,2,7.7,2,4,5
+1166,28,Female,North,Bachelor,Full-time,6,44.1,40.6,Yes,5,6.6,5,7,7
+1167,47,Female,North,Master,Full-time,24,70.3,44.1,Yes,2,7.8,4,6,7
+1168,46,Male,West,Doctorate,Part-time,24,40.7,30.0,No,1,7.3,5,,5
+1169,28,Female,West,Bachelor,Self-employed,5,41.3,41.9,No,4,7.0,1,4,3
+1170,53,Male,North,Master,Part-time,28,39.0,26.9,No,3,7.2,3,7,9
+1171,42,Female,North,Master,Full-time,18,,45.1,Yes,3,6.6,3,9,9
+1172,44,Female,West,Bachelor,Full-time,23,67.9,37.3,Yes,4,7.4,4,6,7
+1173,31,Female,South,Bachelor,Full-time,6,33.3,43.1,No,2,7.5,,4,6
+1174,52,Female,East,Master,Self-employed,27,69.6,39.4,Yes,2,6.0,5,6,5
+1175,29,Female,North,Master,Full-time,5,39.6,32.1,Yes,4,7.0,4,4,6
+1176,20,Male,Central,Doctorate,Unemployed,0,16.3,6.8,Yes,3,6.8,1,6,7
+1177,54,Male,South,High School,Unemployed,30,10.0,4.6,No,4,7.3,1,6,6
+1178,33,Female,South,Bachelor,Part-time,9,25.3,24.0,,6,7.2,2,5,7
+1179,38,Male,East,High School,Full-time,17,39.6,43.8,No,4,5.6,6,5,6
+1180,59,Female,East,Bachelor,Unemployed,34,15.7,1.9,No,2,7.6,2,5,8
+1181,51,Male,Central,Bachelor,Self-employed,30,69.2,59.4,No,3,7.6,3,8,8
+1182,45,Female,South,High School,Part-time,22,,18.9,No,2,6.5,5,3,5
+1183,50,Male,North,Doctorate,Full-time,28,71.2,34.8,No,1,7.2,5,5,6
+1184,30,Male,North,Master,Full-time,4,51.8,37.9,No,2,6.5,7,6,7
+1185,46,Female,West,Bachelor,Self-employed,20,56.8,45.9,Yes,1,7.0,7,6,7
+1186,50,Male,South,Master,Full-time,25,61.2,44.7,No,6,7.1,5,8,7
+1187,46,Male,Central,High School,Full-time,23,36.8,36.4,No,2,8.1,5,6,6
+1188,36,Male,North,Bachelor,Full-time,12,53.6,39.3,Yes,2,6.6,4,8,7
+1189,20,Female,East,Master,Self-employed,0,50.0,44.0,Yes,2,7.6,5,7,9
+1190,44,Female,West,Bachelor,Full-time,21,59.5,40.1,Yes,0,6.3,7,4,6
+1191,39,Female,East,Master,Part-time,17,30.6,24.4,No,2,6.7,3,6,8
+1192,34,Female,South,Bachelor,Full-time,13,57.8,36.2,,0,7.1,3,5,5
+1193,47,Female,Central,High School,Part-time,24,41.9,10.4,Yes,2,5.7,3,4,6
+1194,41,Male,East,Bachelor,Full-time,17,53.1,43.4,No,4,6.4,5,,8
+1195,40,Female,Central,Master,Unemployed,15,15.6,5.6,Yes,3,8.0,,7,6
+1196,22,Male,South,Master,Full-time,0,38.1,32.6,Yes,7,6.9,4,7,8
+1197,22,Female,East,Master,Self-employed,0,38.1,56.4,No,2,5.3,10,4,2
+1198,42,Male,West,Doctorate,Full-time,16,81.8,37.9,No,1,5.8,3,7,10
+1199,39,Female,Central,,Part-time,14,36.9,21.1,No,7,7.6,4,5,7
+1200,40,Male,North,Master,Full-time,14,55.1,37.3,,1,6.6,6,,5
